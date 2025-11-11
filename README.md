@@ -1,4 +1,4 @@
-# 🤖 Stock Return Prediction using Machine Learning  
+# Stock Return Prediction using Machine Learning  
 ### CF969-7-SP | Machine Learning for Finance – Assignment
 ---
 
@@ -114,7 +114,3 @@ Time-series cross-validation (`TimeSeriesSplit`) ensures realistic, forward-look
 - Incorporating macroeconomic or sentiment data could improve prediction accuracy.
 
 ---
-
-
-# Launch the notebook
-jupyter notebook stock-return-prediction.ipynb
